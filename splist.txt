@@ -1,0 +1,9 @@
+BBankingCustomerAmntOperation,/srvBBankingCustomerAmntOperation,DEV,TSTSHMA,EGBCSAM1,/v1/oprEGBCSAM1
+BBankingCustomerAmntOperation,/srvBBankingCustomerAmntOperation,DEV,TSTSHMA,EUACSMN2,/v1/oprEUACSMN2
+BBankingServiceOperation,/srvBBankingServiceOperation,DEV,TSTSHMA,AGBBGSS2,/v1/oprAGBBGSS2
+CentralOtpCardOperation,/srvCentralOtpCardOperation,DEV,TSTSHMA,EGIBOTP1,/v1/oprEGIBOTP1
+CentralOtpCardOperation,/srvCentralOtpCardOperation,DEV,TSTSHMA,EGIOTPR2,/v1/oprEGIOTPR2
+CentralOtpCardOperation,/srvCentralOtpCardOperation,DEV,TSTSHMA,EGOTPOA1,/v1/oprEGOTPOA1
+ChangeBBankingCustomerInfoOperation,/srvChangeBBankingCustomerInfoOperation,DEV,TSTSHMA,EGICHAC5,/v1/oprEGICHAC5
+ChangeBBankingCustomerInfoOperation,/srvChangeBBankingCustomerInfoOperation,DEV,TSTSHMA,EUICPSW3,/v1/oprEUICPSW3
+ChangeBBankingCustomerInfoOperation,/srvChangeBBankingCustomerInfoOperation,DEV,TSTSHMA,EUISTCM3,/v1/oprEUISTCM3
